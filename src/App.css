@@ -1,7 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Rubik", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
 .App {
     background-color: #1E1E1E;
     min-height: 100vh;
-
 }
 
 .center_container {
