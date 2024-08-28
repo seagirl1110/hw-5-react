@@ -1,0 +1,17 @@
+.btn {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.btn svg {
+    fill: #1ED760;
+}
+
+.btn_selected {
+    align-self: start;
+}
+
+.btn_selected svg {
+    fill: #1181F1;
+}
